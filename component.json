@@ -15,8 +15,14 @@
   "scripts": [
     "js/bootstrap.js"
   ],
-  "files": [
+  "fonts": [
+    "fonts/glyphicons-haflings-regular.eot",
+    "fonts/glyphicons-haflings-regular.svg",
+    "fonts/glyphicons-haflings-regular.ttf",
+    "fonts/glyphicons-haflings-regular.woff"
+  ],
+  "styles": [
     "css/bootstrap.css",
-    "fonts/*"
+    "css/bootstrap-theme.css"
   ]
 }
